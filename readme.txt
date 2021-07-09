@@ -30,3 +30,10 @@ Popover en la imagen 2 de destacados
 para el formulario de contacto se utilizo la herramienta typeform.com
 
 5.- se implemento en el github
+
+Se creo el repositorio local.
+commite1.-se agrego el complemento modal haciendo clik en icono de avion
+commit2 .-se amplia el area del clik para el modal al contenedor del avion.
+commit3 .- Comentarios de inicio y fin de Modal
+commit4 .- comentarios de inicio y fin de Footer
+commit5.- se agrega parrafo en blanco
